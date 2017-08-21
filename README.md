@@ -3,8 +3,10 @@
 [![API](https://img.shields.io/badge/API-16%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=16)
 [![Platform](https://img.shields.io/badge/platform-android-lightgrey.svg)](https://www.android.com/)
 [![Language](https://img.shields.io/badge/language-kotlin-ff4081.svg)](https://kotlinlang.org/)
+[![Downloads](https://img.shields.io/badge/downloads-4.6M%20total-brightgreen.svg)](https://github.com/idisfkj/NewsKotlin/releases/download/v1.0/app-release.apk)
 [![Author](https://img.shields.io/badge/Author-idisfkj-orange.svg)](https://idisfkj.github.io/archives/)
 [![Rating](https://img.shields.io/chrome-web-store/stars/nimelepbpejjlbmoobocpfnjhihnpked.svg)]()
+
 A news app for kotlin
 
 # License
