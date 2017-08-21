@@ -12,16 +12,10 @@ class NewsConfig {
         val REQUEST_SOURCE = "source"
         val REQUEST_SORT_BY = "sort_by"
         val DEFAULT_TITLE = "News"
+        val CATEGORY = "category"
         var UPDATE_ADAPTER = false
-        val DEFAULT_CATEGORY = mutableListOf(
-                "abc-news-au",
-                "al-jazeera-english",
-                "ars-technica",
-                "associated-press",
-                "bbc-news",
-                "bbc-sport",
-                "bloomberg"
-        )
+        val DEFAULT_CATEGORY_STRING = "al-jazeera-english#ars-technica#associated-press#bbc-news#bbc-sport#bloomberg"
+        var DEFAULT_CATEGORY = mutableListOf<String>()
         val SUBSCRIBE_IMAGE_URL = mutableMapOf(
                 "abc-news-au" to "http://mobile.abc.net.au/cm/cb/4355924/News+iOS+120x120/data.png",
                 "ars-technica" to "https://icons.better-idea.org/icon?url=http://arstechnica.com&size=70..120..200",
