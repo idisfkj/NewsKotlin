@@ -9,6 +9,24 @@
 
 A news app for kotlin
 
+# Design Sketch
+
+![Design](https://github.com/idisfkj/NewsKotlin/raw/master/images/design.gif)
+
+# Technique Application
+
+* `TabLayout`+`ViewPager`+`Fragment`
+* `Retrofit`+`RxJava`+`RxAndroid`
+* `Delegated Properties`
+* `Extension Functions`
+* `RecyclerView`
+* `Fresco`
+* `Anko`
+
+# Details
+
+[Kotlin最佳实践](https://idisfkj.github.io/2017/08/21/Kotlin%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5/#Delegated-Properties)
+
 # License
 
 ```
